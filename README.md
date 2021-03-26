@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![kmontocam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmontocam)
+![kmontocam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmontocam&show_icons=true)
+![kmontocam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmontocam&show_icons=true&theme=radical)
 
 
 <!--
